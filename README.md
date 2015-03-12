@@ -4,7 +4,7 @@ This project is to automatically detect software design patterns implemented in 
 This program considers algorithms introduced in Automatic Design Pattern Detection by Dirk Heuzeroth, Thomas Holl, Gustav Högström and Welf Löwe.
 
 
-It takes a Github's repository html address as an input to download a Java project and analyses them.
+It takes a Github's repository HTTPS URL as an input to download a Java project and analyses them.
 
 Completed detections: Observer, Visitor, and Chain of Responsibility design patterns.
 
